@@ -1,0 +1,4 @@
+repository "Rpl-Game@kaizokapten847@cloud"
+  path "/"
+    br "/main"
+    co "/main"
