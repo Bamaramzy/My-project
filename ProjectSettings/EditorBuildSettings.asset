@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Judul Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu Game.unity
+    guid: 1cc99d23f9e140a499f28b73b8902fd2
+  - enabled: 1
+    path: Assets/Scenes/Menu Bab.unity
+    guid: e83b5e380d612744cb57c72a11744015
+  - enabled: 1
+    path: Assets/Scenes/Menu Character.unity
+    guid: 2fd89a83650620f4fa200e8f3dcfdcef
+  - enabled: 1
+    path: Assets/Scenes/Menu Materi.unity
+    guid: 201f899eb83863647a49b85b28ba9c21
+  - enabled: 1
+    path: Assets/Scenes/Menu Koleksi.unity
+    guid: 2da0a3af535cad840a3adc2234b66e8b
+  - enabled: 1
+    path: Assets/Scenes/Menu Akun.unity
+    guid: 811eb84d6f9af2240a8259d43babba1f
+  - enabled: 1
+    path: Assets/Scenes/Bab 1 Soal 1.unity
+    guid: 68f86e615b10484479bf1a795d32e617
+  - enabled: 1
+    path: Assets/Scenes/Bab 1 Soal 2.unity
+    guid: bff8e17e01db67046a3784fd16486673
+  - enabled: 1
+    path: Assets/Scenes/Menu Soal Bab 1.unity
+    guid: ce422de2ac9f72849807fe7c0b75e41a
+  - enabled: 1
+    path: Assets/Scenes/Pembahasan B1 S1.unity
+    guid: 1fe699cf971a6fc4fbbd6ac4ab78c19c
+  - enabled: 1
+    path: Assets/Scenes/Salah.unity
+    guid: ef9853b99e324794b968f17a4f96e605
+  m_configObjects: {}
