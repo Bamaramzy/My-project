@@ -386,7 +386,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Bab 1 Soal 1
+          m_StringArgument: B1 S1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &734917127
@@ -576,7 +576,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6f55075fdfec4e54f891f372cbc4d122, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 763529926a9bf1a49828df57528bd329, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
